@@ -4,7 +4,12 @@
 
 
 -- number of customers, products, invoices, countries, 
-select count(*), count(distinct(customerID)) noofcustomers, count(distinct(stockcode)) noofproducts, count(distinct(invoiceNo))noofinvoices, count(distinct(Country)) noofcountries 
+select 
+	count(*), 
+	count(distinct(customerID)) noofcustomers, 
+	count(distinct(stockcode)) noofproducts, 
+	count(distinct(invoiceNo)) noofinvoices, 
+	count(distinct(Country)) noofcountries 
 from ecommerce_raw;
 
 -- finding rows where customerID is null
