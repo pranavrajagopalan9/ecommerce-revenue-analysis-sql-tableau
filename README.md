@@ -42,6 +42,7 @@ Additionally, the business observes a **return rate of about 8.4%**, representin
 
 Overall, while the business demonstrates strong repeat purchasing behaviour, there are clear opportunities to improve customer identification and reduce revenue loss from returns.
 ## Insights Deep Dive:
+![Dashboard Preview](images/dashboard_full.png)
 ### Revenue Overview:
 **Key Metrics:**
 
