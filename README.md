@@ -11,7 +11,7 @@ Insights and recommendations are provided across the following key areas:
 ## Tech Stack:
 Tools: SQL (MySQL), Tableau
 
-[View Live Tableau Dashboard Here]([your-link](https://public.tableau.com/views/Project1-EcommerceDashboard/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[View Live Tableau Dashboard Here](https://public.tableau.com/views/Project1-EcommerceDashboard/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ## Data Structure & Cleaning: 
 ### Dataset Overview:
 - Total rows: 541,909 
